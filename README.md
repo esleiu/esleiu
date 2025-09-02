@@ -7,10 +7,14 @@ Native Portuguese speaker, fluent in English, intermediate in French.
 
 ---
 
-## 📌 GitHub Stats
-![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&count_private=true&hide_title=true&hide=prs&include_all_commits=true)
+##  GitHub Stats
+## GitHub Stats
+![Stats (principal)](https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true)
+![Top Langs (principal)](https://github-readme-stats.vercel.app/api/top-langs/?username=esleiu&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esleiu&layout=compact&langs_count=6)
+![Stats (escolar)](https://github-readme-stats.vercel.app/api?username=wesleycds&show_icons=true&include_all_commits=true)
+![Top Langs (escolar)](https://github-readme-stats.vercel.app/api/top-langs/?wesleycds&layout=compact)
+
 
 ---
 
