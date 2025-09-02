@@ -17,9 +17,17 @@ Sou bolsista no projeto **Componentização de Elementos de Front - Do Projeto U
 ---
 
 ## Status de Atividade no GitHub
-![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true&hide_title=true)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=esleiu&hide_title=true)  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true&hide_title=true&hide_border=false&card_width=500" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=esleiu&hide_title=true&hide_border=false&card_width=500" />
+
+</div>
+
 
 ---
 
