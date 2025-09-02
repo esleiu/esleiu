@@ -1,25 +1,17 @@
-# Wesley Costa
-
-Full Stack Developer | Django | React | SQL  
-Student of Systems Development (TADS - IFRN), currently in the 3rd semester.  
-Experience in academic projects with Django REST, React.js, and SQL.  
-Native Portuguese speaker, fluent in English, intermediate in French.  
-
----
-
-##  GitHub Stats
 ## GitHub Stats
-![Stats (principal)](https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true)
-![Top Langs (principal)](https://github-readme-stats.vercel.app/api/top-langs/?username=esleiu&layout=compact)
 
+<details open>
+  <summary><strong>Conta Principal (esleiu)</strong></summary>
 
-![Stats (escolar)](https://github-readme-stats.vercel.app/api?username=wesleycds&show_icons=true&include_all_commits=true)
-![Top Langs (escolar)](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycds&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esleiu&layout=compact&langs_count=6" />
+</details>
 
+<details>
+  <summary><strong>Conta Escolar (wesleycds)</strong></summary>
 
-
----
-
-## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)
-- [Portfólio de Projetos](https://github.com/SEU-USUARIO?tab=repositories)
+  <img src="https://github-readme-stats.vercel.app/api?username=wesleycds&show_icons=true&include_all_commits=true&hide_title=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycds&layout=compact&langs_count=6" />
+</details>
