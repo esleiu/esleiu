@@ -1,22 +1,29 @@
-## GitHub Stats
+# Wesley Costa
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Conta Principal (esleiu)</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true&hide_title=true" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Conta Escolar (wesleycds)</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=wesleycds&show_icons=true&include_all_commits=true&hide_title=true" />
-    </td>
-  </tr>
-</table>
+Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) - IFRN**, atualmente no 3º período. Tenho experiência em projetos acadêmicos utilizando **Django, Django REST Framework, React.js e SQL**, tanto no backend quanto no frontend.
 
-## Most Used Languages
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esleiu&layout=compact&langs_count=6&card_width=420" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycds&layout=compact&langs_count=6&card_width=420" />
-</div>
+## Projeto de Pesquisa
+Sou bolsista no projeto **Componentização de Elementos de Front - Do Projeto UX aos componentes de front em React** no IFRN.
+
+---
+
+## Tecnologias
+- **Backend:** Django, Django REST Framework, Python, SQL  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Outros:** Git/GitHub, C#, C++  
+
+---
+
+## Status de Atividade no GitHub
+![Wesley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esleiu&show_icons=true&include_all_commits=true&hide_title=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=esleiu&hide_title=true)  
+
+---
+
+## Contato
+- Email: **wesleysilvia13@gmail.com**  
+- LinkedIn: [linkedin.com/in/wesley-costa-b531a8165](https://www.linkedin.com/in/wesley-costa-b531a8165)  
+- GitHub: [github.com/esleiu](https://github.com/esleiu)  
